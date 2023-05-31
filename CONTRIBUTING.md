@@ -17,4 +17,7 @@ I.e.
 If you are creating branches directly in the [main repository](https://github.com/Activiti/Activiti), this is
 the naming convention to be used for branches:
 
+
+
+
 - `username-issueNumber-anythingYouWant`
