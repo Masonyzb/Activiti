@@ -15,6 +15,8 @@ Activiti is a light-weight workflow and Business Process Management (BPM) Platfo
 
 \***\*NOTE: We moved to the master branch all the content of the development branch that we were using to design and code the next major version of the project. If you want to contribute with version 6.x please look at the 6.x branch.\*\***
 
+
+yzb
 If you want to read more about our Repositories structure you can read our [GitBook](https://activiti.gitbooks.io/activiti-7-developers-guide/content/).
 
 ## Configuring IntelliJ
